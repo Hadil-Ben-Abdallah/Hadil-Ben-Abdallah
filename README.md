@@ -31,6 +31,7 @@
 <a href="https://codepen.io/hadil-ben-abdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hadil-ben-abdallah" height="30" width="40" /></a>
 <a href="https://dev.to/hadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hadil" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hadil-ben-abdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadil-ben-abdallah" height="30" width="40" /></a>
+<a href="https://twitter.com/hadilbnabdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hadilbnabdallah" height="30" width="40" /></a>
 <a href="https://fb.com/hadil.benabdallah11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hadil.benabdallah11" height="30" width="40" /></a>
 </p>
  <hr/>
