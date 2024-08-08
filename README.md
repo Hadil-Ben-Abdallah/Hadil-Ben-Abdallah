@@ -48,10 +48,10 @@
 <br/>
 
 <div align=center>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadil-ben-abdallah&&theme=dark" alt="hadil-ben-abdallah" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadil-ben-abdallah&&theme=radical" alt="hadil-ben-abdallah" />
     <br/> <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadil-ben-abdallah&show_icons=true&locale=en&&theme=dark&&icon_color=1143d4&text_color=cfecff&bg_color=151515&title_color=29a4f4" alt="hadil-ben-abdallah" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadil-ben-abdallah&show_icons=true&locale=en&&theme=radical" alt="hadil-ben-abdallah" />
   <br/><br/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadil-ben-abdallah&show_icons=true&locale=en&layout=compact&&theme=dark&&title_color=29a4f4" alt="hadil-ben-abdallah" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadil-ben-abdallah&show_icons=true&locale=en&layout=compact&&theme=radical" alt="hadil-ben-abdallah" />
 </div>
 
