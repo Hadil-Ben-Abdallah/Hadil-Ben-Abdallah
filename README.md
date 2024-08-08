@@ -9,15 +9,15 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on: **Smartimo Project**
+- 🔭 I’m currently working on: **Smartimo Project** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
-- 🌱 I’m currently learning: **Django ninja and Next.js**
+- 🌱 I’m currently learning: **Django ninja and Next.js** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📝 I regularly write articles on: [https://dev.to/hadil](https://dev.to/hadil)
+- 📝 I regularly write articles on: [https://dev.to/hadil](https://dev.to/hadil) <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' />
 
-- 📫 How to reach me: **hadilbenabdallah111@gmail.com**
+- 📫 How to reach me: **hadilbenabdallah111@gmail.com** <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
-- ⚡ Fun fact: **I want to travel to UK**
+- ⚡ Fun fact: **I want to travel to UK** <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' />
 <br/>
  <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
@@ -48,10 +48,10 @@
 <br/>
 
 <div align=center>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadil-ben-abdallah&&theme=tokyonight" alt="hadil-ben-abdallah" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadil-ben-abdallah&&theme=dark" alt="hadil-ben-abdallah" />
     <br/> <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadil-ben-abdallah&show_icons=true&locale=en&&theme=tokyonight" alt="hadil-ben-abdallah" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadil-ben-abdallah&show_icons=true&locale=en&&theme=dark&&icon_color=f74f90&text_color=cfecff&bg_color=151515&title_color=29a4f4" alt="hadil-ben-abdallah" />
   <br/><br/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadil-ben-abdallah&show_icons=true&locale=en&layout=compact&&theme=tokyonight" alt="hadil-ben-abdallah" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadil-ben-abdallah&show_icons=true&locale=en&layout=compact&&theme=dark&&title_color=29a4f4" alt="hadil-ben-abdallah" />
 </div>
 
