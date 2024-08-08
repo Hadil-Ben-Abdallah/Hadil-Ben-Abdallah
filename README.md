@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning: **Django ninja and Next.js** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📝 I regularly write articles on: [https://dev.to/hadil](https://dev.to/hadil) <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' />
+- 📝 I regularly write articles on: **https://dev.to/hadil** <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' />
 
 - 📫 How to reach me: **hadilbenabdallah111@gmail.com** <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
@@ -28,11 +28,11 @@
 <h2 align="center">📞 Connect with me 📞</h2>
 <br/>
 <p align="center">
-<a href="https://codepen.io/hadil-ben-abdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hadil-ben-abdallah" height="30" width="40" /></a>
-<a href="https://dev.to/hadil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hadil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hadil-ben-abdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadil-ben-abdallah" height="30" width="40" /></a>
-<a href="https://twitter.com/hadilbnabdallah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hadilbnabdallah" height="30" width="40" /></a>
-<a href="https://fb.com/hadil.benabdallah11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hadil.benabdallah11" height="30" width="40" /></a>
+<a href="https://codepen.io/hadil-ben-abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=codepen" height=45 withd=45 /></a>
+<a href="https://dev.to/hadil" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=devto" height=45 withd=45 /></a>
+<a href="https://linkedin.com/in/hadil-ben-abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=45 withd=45 /></a>
+<a href="https://twitter.com/hadilbnabdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" height=45 withd=45 /></a>
+<a href="https://github.com/Hadil-Ben-Abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=45 withd=45 /></a>
 </p>
  <hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
