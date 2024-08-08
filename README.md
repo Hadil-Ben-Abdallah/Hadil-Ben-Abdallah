@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Hadil!;" />
 </h1>
 
-<h3 align="center">A passionate full-stuck engineer in web development</h3>
+<h3 align="center">A passionate Full-Stack Engineer in web development</h3>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <br/>
