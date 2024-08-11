@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Hadil!;" />
 </h1>
 
-<h3 align="center">A passionate Full-Stack Engineer in web development</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 <br/>
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <br/>
@@ -31,6 +31,7 @@
 <a href="https://codepen.io/hadil-ben-abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=codepen" height=45 withd=45 /></a>
 <a href="https://dev.to/hadil" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=devto" height=45 withd=45 /></a>
 <a href="https://linkedin.com/in/hadil-ben-abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=45 withd=45 /></a>
+<a href="[https://github.com/Hadil-Ben-Abdallah](https://leetcode.com/u/hadilbenabdallah/)" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" height=45 withd=45 /></a>
 <a href="https://twitter.com/hadilbnabdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" height=45 withd=45 /></a>
 <a href="https://github.com/Hadil-Ben-Abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=45 withd=45 /></a>
 </p>
