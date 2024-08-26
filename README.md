@@ -153,3 +153,9 @@
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
 </p>
+
+<br/>
+<br/>
+<br/>
+
+<h4 align="center">Made with <img src="hearts_gif.gif" width="25" height="25"/> by Hadil</h4>
