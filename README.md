@@ -35,6 +35,10 @@
 <a href="https://twitter.com/hadilbnabdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" height=45 withd=45 /></a>
 <a href="https://github.com/Hadil-Ben-Abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=45 withd=45 /></a>
 </p>
+ <br/>
+ <div align="center">
+<a href="https://leetcode.com/u/hadilbenabdallah/" target="blank"><img src="https://leetcard.jacoblin.cool/hadilbenabdallah?ext=heatmap"/></a>
+</div>
  <hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
 <br/>
