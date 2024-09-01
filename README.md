@@ -22,7 +22,7 @@
  <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=radical&no-frame=true&title=Stars,Followers,Commits,Experience,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=radical&no-frame=true&title=MultiLanguage,Stars,Followers,Commits,Experience,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
  <hr/>
 
 <h2 align="center">📞 Connect with me 📞</h2>
