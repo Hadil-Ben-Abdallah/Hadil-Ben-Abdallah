@@ -148,7 +148,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
-<br/>
  <hr/>
 <h2 align="center">🎮 Interests 🎮</h2>
 <br/>
