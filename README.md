@@ -3,6 +3,7 @@
 <div align="right"> 
     
 [![built with Codeium](https://codeium.com/badges/main)](https://codeium.com) 
+[![streak](https://codeium.com/badges/v2/user/hadilbenabdallah/streak)](https://codeium.com/profile/hadilbenabdallah)
 </div>
 
 <h1 align="center">
