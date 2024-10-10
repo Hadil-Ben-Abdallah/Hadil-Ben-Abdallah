@@ -33,7 +33,10 @@
 
  <h2 align="center">🥇 Badges 🥇</h2>
 <br/>
-<p align="center"> <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="50days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a> </p>
+<p align="center"> 
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="50days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="SQL.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+</p>
  <hr/>
 
 <h2 align="center">📞 Connect with me 📞</h2>
