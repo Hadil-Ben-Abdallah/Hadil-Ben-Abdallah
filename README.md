@@ -54,7 +54,7 @@
 </p>
  <br/>
  <div align="center">
-<a href="https://leetcode.com/u/hadilbenabdallah/" target="blank"><img src="https://leetcard.jacoblin.cool/hadilbenabdallah?ext=heatmap"/></a>
+<a href="https://leetcode.com/u/hadilbenabdallah/" target="blank"><img src="https://leetcard.jacoblin.cool/hadilbenabdallah?theme=radical&ext=heatmap"/></a>
 </div>
 <div align="center">
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="https://api.daily.dev/devcards/v2/9pqnrpoJdg1CfgqIBuMCl.png?type=default&r=oy7" width="356" alt="Hadil Ben Abdallah's Dev Card"/></a>
