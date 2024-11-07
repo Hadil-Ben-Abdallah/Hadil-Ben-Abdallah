@@ -15,9 +15,9 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on: **Smartimo Project** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
+- 🔭 I’m currently working on: **My end of studies project** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
-- 🌱 I’m currently learning: **Django, GraphQL and Next.js** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning: **Data structure, Django and Next.js** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 📝 I regularly write articles on: **https://app.daily.dev/hadilbenabdallah** <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' />
 
@@ -28,7 +28,7 @@
  <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=MultiLanguage,Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
  <hr/>
 
  <h2 align="center">🥇 Badges 🥇</h2>
@@ -36,6 +36,7 @@
 <p align="center"> 
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="50days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="SQL.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="october.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://codeium.com/profile/hadilbenabdallah"><img src="codeiumFirtBadge.png" alt="hadil-ben-abdallah" width="130" height="100"/></a>
 </p>
  <hr/>
@@ -46,11 +47,11 @@
 <a href="https://codepen.io/hadil-ben-abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=codepen" height=45 withd=45 /></a>
 <a href="https://dev.to/hadil" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=devto" height=45 withd=45 /></a>
 <a href="https://app.daily.dev/hadilbenabdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev" height=45 withd=45 /></a>
-<a href="https://linkedin.com/in/hadil-ben-abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=45 withd=45 /></a>
 <a href="https://leetcode.com/u/hadilbenabdallah/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" height=45 withd=45 /></a>
+<a href="https://linkedin.com/in/hadil-ben-abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=45 withd=45 /></a>
 <a href="https://twitter.com/hadilbnabdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" height=45 withd=45 /></a>
-<a href="https://github.com/Hadil-Ben-Abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=45 withd=45 /></a>
 <a href="https://codeium.com/profile/hadilbenabdallah" target="blank"><img src="codeium.png" height=45 withd=45 /></a>
+<a href="https://github.com/Hadil-Ben-Abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=45 withd=45 /></a>
 </p>
  <br/>
  <div align="center">
