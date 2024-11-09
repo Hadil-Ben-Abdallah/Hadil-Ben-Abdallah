@@ -166,7 +166,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadil-ben-abdallah&show_icons=true&locale=en&layout=compact&&theme=radical" alt="hadil-ben-abdallah" />
 </div>
 <br/>
-<p align="center">
+<p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
 </p>
 
