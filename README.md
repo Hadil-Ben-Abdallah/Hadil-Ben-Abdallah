@@ -28,7 +28,7 @@
  <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=MultiLanguage,Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
  <hr/>
 
  <h2 align="center">🥇 Badges 🥇</h2>
@@ -59,6 +59,7 @@
 </div>
 <div align="center">
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="https://api.daily.dev/devcards/v2/9pqnrpoJdg1CfgqIBuMCl.png?type=default&r=oy7" width="356" alt="Hadil Ben Abdallah's Dev Card"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="OctoberTopReaderBadge.png" width="356" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 </div>
  <hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
