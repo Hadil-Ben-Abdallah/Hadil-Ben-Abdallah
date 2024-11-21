@@ -15,8 +15,6 @@
 <br/>
 <br/>
 
-- 🌍  I'm based in Tunisia 🇹🇳
-
 - 🔭 I’m currently working on: **My end of studies project** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
 - 🌱 I’m currently learning: **Data structure, Django and Next.js** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
