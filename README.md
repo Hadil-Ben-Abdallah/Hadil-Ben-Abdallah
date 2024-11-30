@@ -31,7 +31,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
  <hr/>
 
- <h2 align="center">🥇 Badges 🥇</h2>
+ <h2 align="center">🥇 LeetCode Badges 🥇</h2>
 <br/>
 <p align="center"> 
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="50days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
