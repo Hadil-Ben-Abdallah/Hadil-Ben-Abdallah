@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on: **My end of studies project** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
+- 🔭 I’m currently working on: **Smartimo project** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
 - 🌱 I’m currently learning: **Data structure, Django and Next.js** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -37,6 +37,7 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="50days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="SQL.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="october.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="100days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://codeium.com/profile/hadilbenabdallah"><img src="codeiumFirtBadge.png" alt="hadil-ben-abdallah" width="130" height="100"/></a>
 </p>
  <hr/>
