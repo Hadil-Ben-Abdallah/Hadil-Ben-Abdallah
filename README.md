@@ -157,7 +157,7 @@
 <br/>
 
 <div align=center>
-
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadil-ben-abdallah&&theme=radical" alt="hadil-ben-abdallah" />
 <br/> <br/>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hadil-ben-abdallah&bg_color=141321&color=f8d847&line=a9fef7&point=87cbc5&area_color=a9fef7&title_color=fe428e&area=true" alt="hadil-ben-abdallah" />
 <br>
