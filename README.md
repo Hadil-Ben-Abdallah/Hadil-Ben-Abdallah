@@ -59,10 +59,10 @@
 <a href="https://leetcode.com/u/hadilbenabdallah/" target="blank"><img src="https://leetcard.jacoblin.cool/hadilbenabdallah?theme=radical&ext=heatmap"/></a>
 </div>
 <div align="center">
-<a href="https://app.daily.dev/hadilbenabdallah"><img src="https://api.daily.dev/devcards/v2/9pqnrpoJdg1CfgqIBuMCl.png?type=default&r=oy7" width="356" alt="Hadil Ben Abdallah's Dev Card"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="https://api.daily.dev/devcards/v2/9pqnrpoJdg1CfgqIBuMCl.png?type=default&r=oy7" width="300" alt="Hadil Ben Abdallah's Dev Card"/></a>
     <br>
-<a href="https://app.daily.dev/hadilbenabdallah"><img src="OctoberTopReaderBadge.png" width="356" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
-<a href="https://app.daily.dev/hadilbenabdallah"><img src="NovemberTopReaderBadge.png" width="356" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="OctoberTopReaderBadge.png" width="300" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="NovemberTopReaderBadge.png" width="300" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 </div>
  <hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
