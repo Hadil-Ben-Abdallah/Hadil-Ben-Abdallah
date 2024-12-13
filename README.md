@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on: **Smartimo project** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
-- 🌱 I’m currently learning: **Data structure, Django and Next.js** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱 I’m currently learning: **Data structure, Next.js and Shadcn** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - 📝 I regularly write articles on: **https://app.daily.dev/hadilbenabdallah** <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' />
 
@@ -28,7 +28,7 @@
  <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Experience,PullRequest,Repositories,Issues&column=-1" alt="hadil-ben-abdallah" /></a> </p>
  <hr/>
 
  <h2 align="center">🥇 LeetCode Badges 🥇</h2>
@@ -59,8 +59,10 @@
 <a href="https://leetcode.com/u/hadilbenabdallah/" target="blank"><img src="https://leetcard.jacoblin.cool/hadilbenabdallah?theme=radical&ext=heatmap"/></a>
 </div>
 <div align="center">
-<a href="https://app.daily.dev/hadilbenabdallah"><img src="https://api.daily.dev/devcards/v2/9pqnrpoJdg1CfgqIBuMCl.png?type=default&r=oy7" width="356" alt="Hadil Ben Abdallah's Dev Card"/></a>
-<a href="https://app.daily.dev/hadilbenabdallah"><img src="OctoberTopReaderBadge.png" width="356" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="https://api.daily.dev/devcards/v2/9pqnrpoJdg1CfgqIBuMCl.png?type=default&r=oy7" width="300" alt="Hadil Ben Abdallah's Dev Card"/></a>
+    <br>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="OctoberTopReaderBadge.png" width="300" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="NovemberTopReaderBadge.png" width="300" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 </div>
  <hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
@@ -157,7 +159,7 @@
 
 <div align=center>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadil-ben-abdallah&&theme=radical" alt="hadil-ben-abdallah" />
-    <br/> <br/>
+<br/> <br/>
    <img src="https://github-readme-activity-graph.vercel.app/graph?username=hadil-ben-abdallah&bg_color=141321&color=f8d847&line=a9fef7&point=87cbc5&area_color=a9fef7&title_color=fe428e&area=true" alt="hadil-ben-abdallah" />
 <br>
 <br>
