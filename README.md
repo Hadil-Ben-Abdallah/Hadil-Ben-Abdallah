@@ -65,6 +65,7 @@
     <br>
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="OctoberTopReaderBadge.png" width="300" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="NovemberTopReaderBadge.png" width="300" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="DecemberTopReaderBadge.png" width="300" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 </div>
  <hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
