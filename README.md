@@ -15,7 +15,7 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently working on: **Smartimo project** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
+- 🔭 I’m currently working on: **Freelancing** <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" />
 
 - 🌱 I’m currently learning: **Data structure, Next.js and Django** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
