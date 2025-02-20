@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋;+I'm+Hadil!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋🏻;+I'm+Hadil!;" />
 </h1>
 
 <h3 align="center">A passionate Software Engineer</h3>
@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning: **Data structures & Algorithms** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 📝 I regularly write articles on: **<a href="https://app.daily.dev/hadilbenabdallah">Daily.dev</a>** <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' />
+- 📝 I regularly write articles on: **<a href="https://dev.to/hadil">Dev.to</a>** <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' />
 
 - 📫 How to reach me: **hadilbenabdallah111@gmail.com** <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
@@ -67,6 +67,7 @@
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="OctoberTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="NovemberTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="DecemberTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="JanuaryTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 </div>
  <hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
