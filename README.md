@@ -28,7 +28,7 @@
  <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=MultiLanguage,Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
  <hr/>
 
  <h2 align="center">🥇 LeetCode Badges 🥇</h2>
@@ -71,7 +71,7 @@
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="DecemberTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="JanuaryTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="FebruaryTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
-<!-- <a href="https://app.daily.dev/hadilbenabdallah"><img src="MarchTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a> -->
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="MarchTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 </div>
  <hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
