@@ -1,3 +1,4 @@
+<a name="top"></a>
 <div align="right"> 
 <img src="https://komarev.com/ghpvc/?username=hadil-ben-abdallah&label=Profile%20views&color=0e75b6&style=flat" alt="hadil-ben-abdallah" />
     
@@ -206,3 +207,9 @@
 </p>
 
 <h4 align="center">Made with <img src="hearts_gif.gif" width="25" height="25"/> by Hadil</h4>
+
+<p align="right">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back%20to%20Top-↑-blue" alt="Back to top" />
+  </a>
+</p>
