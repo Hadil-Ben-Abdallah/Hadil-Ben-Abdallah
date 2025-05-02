@@ -70,6 +70,7 @@
 <div align="center">
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="https://api.daily.dev/devcards/v2/9pqnrpoJdg1CfgqIBuMCl.png?type=default&r=oy7" width="300" alt="Hadil Ben Abdallah's Dev Card"/></a>
     <br>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="OctoberTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="NovemberTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="DecemberTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="JanuaryTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
