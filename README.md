@@ -11,6 +11,12 @@
 
 <h3 align="center">A passionate Software Engineer</h3>
 <br/>
+
+<div align="center">
+  <img alt="GIF" height="90px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
+  <img alt="GIF" height="90px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <br/>
 <br/>
