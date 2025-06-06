@@ -11,6 +11,12 @@
 
 <h3 align="center">A passionate Software Engineer</h3>
 <br/>
+
+<div align="center">
+  <img alt="GIF" height="90px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
+  <img alt="GIF" height="90px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+</div>
+
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 <br/>
 <br/>
@@ -65,17 +71,18 @@
 </p>
  <br/>
  <div align="center">
-<a href="https://leetcode.com/u/hadilbenabdallah/" target="blank"><img src="https://leetcard.jacoblin.cool/hadilbenabdallah?theme=radical&ext=heatmap"/></a>
+<a href="https://leetcode.com/u/hadilbenabdallah/" target="blank"><img src="https://leetcard.jacoblin.cool/hadilbenabdallah?theme=dark&ext=heatmap"/></a>
 </div>
 <div align="center">
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="https://api.daily.dev/devcards/v2/9pqnrpoJdg1CfgqIBuMCl.png?type=default&r=oy7" width="300" alt="Hadil Ben Abdallah's Dev Card"/></a>
     <br>
-<a href="https://app.daily.dev/hadilbenabdallah"><img src="OctoberTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
-<a href="https://app.daily.dev/hadilbenabdallah"><img src="NovemberTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
-<a href="https://app.daily.dev/hadilbenabdallah"><img src="DecemberTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
-<a href="https://app.daily.dev/hadilbenabdallah"><img src="JanuaryTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
-<a href="https://app.daily.dev/hadilbenabdallah"><img src="FebruaryTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
-<a href="https://app.daily.dev/hadilbenabdallah"><img src="MarchTopReaderBadge.png" width="250" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="OctoberTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="NovemberTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="DecemberTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="JanuaryTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="FebruaryTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="MarchTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="AprilTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 </div>
  <hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
@@ -171,15 +178,15 @@
 <br/>
 
 <div align=center>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadil-ben-abdallah&&theme=radical" alt="hadil-ben-abdallah" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hadil-ben-abdallah&&theme=react" alt="hadil-ben-abdallah" />
 <br/> <br/>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hadil-ben-abdallah&bg_color=141321&color=f8d847&line=a9fef7&point=87cbc5&area_color=a9fef7&title_color=fe428e&area=true" alt="hadil-ben-abdallah" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hadil-ben-abdallah&bg_color=20232a&color=f8d847&line=61dafb&point=87cbc5&area_color=a9fef7&title_color=ffffff&area=true" alt="hadil-ben-abdallah" />
 <br>
 <br>
     
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadil-ben-abdallah&show_icons=true&locale=en&&theme=radical" alt="hadil-ben-abdallah" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hadil-ben-abdallah&show_icons=true&locale=en&&theme=react" alt="hadil-ben-abdallah" />
   <br/><br/>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadil-ben-abdallah&show_icons=true&locale=en&layout=compact&&theme=radical" alt="hadil-ben-abdallah" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hadil-ben-abdallah&show_icons=true&locale=en&layout=compact&&theme=react" alt="hadil-ben-abdallah" />
 </div>
 <br/>
 <p align="center">
