@@ -13,8 +13,13 @@
 <br/>
 
 <div align="center">
-  <img alt="GIF" height="90px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
-  <img alt="GIF" height="90px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+  <img alt="GIF" height="85px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
+  <img alt="GIF" height="85px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="75">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="75">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75">
+  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="75">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="75">
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
@@ -34,7 +39,7 @@
  <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=MultiLanguage,Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
  <hr/>
 
  <h2 align="center">🥇 LeetCode Badges 🥇</h2>
@@ -47,6 +52,7 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="february.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="march.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="april.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="may.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <br>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="SQL.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="LeetCode75.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
