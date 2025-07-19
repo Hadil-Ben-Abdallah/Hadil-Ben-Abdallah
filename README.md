@@ -13,8 +13,8 @@
 <br/>
 
 <div align="center">
-  <img alt="GIF" height="85px" src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" />
-  <img alt="GIF" height="85px" src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="75" />
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="75" />
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="75">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="75">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="75">
@@ -53,6 +53,7 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="march.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="april.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="may.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="june.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <br>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="SQL.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="LeetCode75.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
@@ -73,7 +74,6 @@
 <a href="https://leetcode.com/u/hadilbenabdallah/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" height=45 withd=45 /></a>
 <a href="https://linkedin.com/in/hadil-ben-abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=45 withd=45 /></a>
 <a href="https://twitter.com/hadilbnabdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" height=45 withd=45 /></a>
-<a href="https://codeium.com/profile/hadilbenabdallah" target="blank"><img src="codeium.png" height=45 withd=45 /></a>
 <a href="https://github.com/Hadil-Ben-Abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=45 withd=45 /></a>
 </p>
  <br/>
