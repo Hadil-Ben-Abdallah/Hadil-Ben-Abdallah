@@ -1,8 +1,5 @@
 <div align="right"> <a name="top"></a>
 <img src="https://komarev.com/ghpvc/?username=hadil-ben-abdallah&label=Profile%20views&color=0e75b6&style=flat" alt="hadil-ben-abdallah" />
-    
-[![built with Codeium](https://codeium.com/badges/main)](https://codeium.com) 
-[![streak](https://codeium.com/badges/v2/user/hadilbenabdallah/streak)](https://codeium.com/profile/hadilbenabdallah)
 </div>
 
 <h1 align="center">
@@ -39,7 +36,7 @@
  <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=MultiLanguage,Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
  <hr/>
 
  <h2 align="center">🥇 LeetCode Badges 🥇</h2>
@@ -62,6 +59,7 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="100days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="2550.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="100days25.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="200days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
 </p>
  <hr/>
 
