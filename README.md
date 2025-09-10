@@ -89,6 +89,7 @@
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="FebruaryTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="MarchTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 <a href="https://app.daily.dev/hadilbenabdallah"><img src="AprilTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
+<a href="https://app.daily.dev/hadilbenabdallah"><img src="JulyTopReaderBadge.png" width="200" alt="Hadil Ben Abdallah's Top Reader Badge"/></a>
 </div>
  <hr/>
 <h2 align="center">⚔ Languages-Frameworks-Tools ⚔</h2>
