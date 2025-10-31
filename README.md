@@ -64,6 +64,7 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="100days25.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="200days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="365days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="2025.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
 </p>
  <hr/>
 
