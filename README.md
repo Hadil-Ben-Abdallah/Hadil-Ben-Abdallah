@@ -36,7 +36,7 @@
  <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=MultiLanguage,Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
  <hr/>
 <!-- MultiLanguage, -->
  <h2 align="center">🥇 LeetCode Badges 🥇</h2>
@@ -53,6 +53,7 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="june.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="july.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="august.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="september.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <br>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="SQL.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="LeetCode75.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
@@ -63,6 +64,7 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="100days25.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="200days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="365days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="2025.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
 </p>
  <hr/>
 
