@@ -54,6 +54,7 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="july.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="august.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="september.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="202510.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <br>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="SQL.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="LeetCode75.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
@@ -67,7 +68,12 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="2025.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
 </p>
  <hr/>
+ <h2 align="center">✍🏻 Dev Communitity Badges ✍🏻</h2>
+ <br/>
 
+
+ 
+<hr/>
 <h2 align="center">📞 Connect with me 📞</h2>
 <br/>
 <p align="center">
