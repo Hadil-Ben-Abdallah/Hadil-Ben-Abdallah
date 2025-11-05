@@ -68,7 +68,7 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="2025.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
 </p>
  <hr/>
- <h2 align="center">✍🏻 Dev Communitity Badges ✍🏻</h2>
+ <h2 align="center">✍🏻 Dev Community Badges ✍🏻</h2>
  <br/>
 <p align="center"> 
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/write.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
