@@ -31,7 +31,7 @@
 
 - 📫 How to reach me: **hadilbenabdallah111@gmail.com** <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" />
 
-- ⚡ Fun fact: **I want to travel to UK** <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' />
+- ⚡ Fun fact: **I want to travel to Switzerland** <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' />
 <br/>
  <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
