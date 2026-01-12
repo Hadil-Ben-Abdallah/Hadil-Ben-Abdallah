@@ -252,10 +252,10 @@
 <br/>
 
 <p align="center">
-    <img src="fire.gif" alt="fire"  width="350" height="250"/>
+    <img src="imgs/fire.gif" alt="fire"  width="350" height="250"/>
 </p>
 
-<h4 align="center">Made with <img src="hearts_gif.gif" width="25" height="25"/> by Hadil</h4>
+<h4 align="center">Made with <img src="imgs/hearts_gif.gif" width="25" height="25"/> by Hadil</h4>
 
 <p align="right">
   <a href="#top">
