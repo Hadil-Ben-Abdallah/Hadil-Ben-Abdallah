@@ -96,6 +96,16 @@
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/newbie.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
 </p>
 
+> Some of my blogs I'm proud of.
+
+|  Banner  |   Details  |
+|:--------:|:-----------|
+| <img src="imgs/banners/article1.png" alt="Coding Without Pressure: How Slowing Down Helped Me Learn Faster" width="600" /> | ✧  Reached 20k+ views and 200+ reactions <br> ✧ Got me the "CodeNewbie" badge <br><br> [Coding Without Pressure: How Slowing Down Helped Me Learn Faster](https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-lko) |
+| <img src="imgs/banners/article2.png" alt="The Hard Truth About Learning to Code (That No One Tells You)" width="600" /> | ✧ Reached 15k+ views <br><br> [The Hard Truth About Learning to Code (That No One Tells You)](https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1) |
+| <img src="imgs/banners/article3.png" alt="You’re a Real JavaScript Developer Only If..." width="600" /> | ✧ Reached 7k+ views <br><br> [You’re a Real JavaScript Developer Only If...](https://dev.to/hadil/youre-a-real-javascript-developer-only-if-294c) |
+| <img src="imgs/banners/article4.png" alt="🦊 React-Fox-Toast: A Silent but Powerful Presence in Your UI" width="600" /> | ✧ Reached 10k+ views <br> ✧ Got me the "React" badge <br><br> [🦊 React-Fox-Toast: A Silent but Powerful Presence in Your UI](https://dev.to/hadil/react-fox-toast-a-silent-but-powerful-presence-in-your-ui-4k9c) |
+| <img src="imgs/banners/article5.png" alt="🚀 5 VSCode Extensions That Will Make You Actually Enjoy Coding Again 🎉" width="600" /> | ✧ Reached 15k+ views <br><br> [🚀 5 VSCode Extensions That Will Make You Actually Enjoy Coding Again 🎉](https://dev.to/hadil/5-vscode-extensions-that-will-make-you-actually-enjoy-coding-again-372n) |
+
  
 <hr/>
 <h2 align="center">📞 Connect with me 📞</h2>
