@@ -96,7 +96,7 @@
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/newbie.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
 </p>
 
-> Some of my blogs I'm proud of.
+> Some of my blogs I'm proud of
 
 |  Banner  |   Details  |
 |:--------:|:-----------|
