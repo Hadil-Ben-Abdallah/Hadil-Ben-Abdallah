@@ -77,12 +77,12 @@
  <h2 align="center">✍🏻 Dev Community Badges ✍🏻</h2>
  <br/>
 <p align="center"> 
-    <a href="https://dev.to/hadil"><img src="imgs/dev-badges/write.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/comment1.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/comment2.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/comment4.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/comment8.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/comment16.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://dev.to/hadil"><img src="imgs/dev-badges/write.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/1year.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/2years.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/frontend-challenge.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
