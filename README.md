@@ -39,7 +39,7 @@
  <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=MultiLanguage,Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
  <hr/>
 <!-- MultiLanguage, -->
  <h2 align="center">🥇 LeetCode Badges 🥇</h2>
@@ -104,8 +104,8 @@
 
 |  Banner  |   Details  |
 |:--------:|:-----------|
-| <img src="imgs/banners/article1.png" alt="Coding Without Pressure: How Slowing Down Helped Me Learn Faster" width="600" /> | ✧  Reached 20k+ views and 200+ reactions <br> ✧ Got me the "CodeNewbie" badge <br><br> [Coding Without Pressure: How Slowing Down Helped Me Learn Faster](https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-lko) |
-| <img src="imgs/banners/article2.png" alt="The Hard Truth About Learning to Code (That No One Tells You)" width="600" /> | ✧ Reached 10k+ views <br><br> [The Hard Truth About Learning to Code (That No One Tells You)](https://dev.to/hadil/the-hard-truth-about-learning-to-code-that-no-one-tells-you-15c1) |
+| <img src="imgs/banners/article1.png" alt="Coding Without Pressure: How Slowing Down Helped Me Learn Faster" width="600" /> | ✧  Reached 20k+ views and 250+ reactions <br> ✧ Got me the "CodeNewbie" badge <br><br> [Coding Without Pressure: How Slowing Down Helped Me Learn Faster](https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-lko) |
+| <img src="imgs/banners/article2.png" alt="The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)" width="600" /> | ✧ Reached 10k+ views <br> ✧ Got me the "Git" badge <br><br> [The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51) |
 | <img src="imgs/banners/article3.png" alt="Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems (40x Faster Than LiteLLM)" width="600" /> | ✧ Got me the "Go" badge <br><br> [Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems (40x Faster Than LiteLLM)](https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51) |
 | <img src="imgs/banners/article4.png" alt="🦊 React-Fox-Toast: A Silent but Powerful Presence in Your UI" width="600" /> | ✧ Reached 10k+ views <br> ✧ Got me the "React" badge <br><br> [🦊 React-Fox-Toast: A Silent but Powerful Presence in Your UI](https://dev.to/hadil/react-fox-toast-a-silent-but-powerful-presence-in-your-ui-4k9c) |
 | <img src="imgs/banners/article5.png" alt="🚀 5 VSCode Extensions That Will Make You Actually Enjoy Coding Again 🎉" width="600" /> | ✧ Reached 15k+ views <br><br> [🚀 5 VSCode Extensions That Will Make You Actually Enjoy Coding Again 🎉](https://dev.to/hadil/5-vscode-extensions-that-will-make-you-actually-enjoy-coding-again-372n) |
