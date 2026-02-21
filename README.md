@@ -87,9 +87,9 @@
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/write.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/1year.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/2years.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <br>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/frontend-challenge.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/uno.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
-    <br>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/judge.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/welcome.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/comment.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
@@ -98,6 +98,7 @@
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/css.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/javascript.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/react.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://dev.to/hadil"><img src="imgs/dev-badges/node.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/go.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/newbie.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
 </p>
