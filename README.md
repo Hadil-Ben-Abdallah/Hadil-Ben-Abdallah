@@ -75,6 +75,7 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/365days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/2025.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/500.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/QuestAlgo.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
 </p>
  <hr/>
  <h2 align="center">✍🏻 Dev Community Badges ✍🏻</h2>
