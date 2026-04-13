@@ -39,7 +39,7 @@
  <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=MultiLanguage,Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hadil-ben-abdallah&theme=darkhub&no-frame=true&title=Stars,Followers,Commits,Experience,PullRequest,Repositories&column=-1" alt="hadil-ben-abdallah" /></a> </p>
  <hr/>
 <!-- MultiLanguage, -->
  <h2 align="center">🥇 LeetCode Badges 🥇</h2>
@@ -62,6 +62,7 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/202512.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/1.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/2.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/3.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <br>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/SQL.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/LeetCode75.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
