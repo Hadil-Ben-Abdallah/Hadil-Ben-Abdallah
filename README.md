@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋🏻;+I'm+Hadil!;" />
 </h1>
 
-<h3 align="center">A passionate Software Engineer</h3>
+<h3 align="center">A passionate Software Engineer & Technical Writer</h3>
 <br/>
 
 <div align="center">
@@ -63,6 +63,7 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/1.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/2.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/3.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/4.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <br>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/SQL.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/LeetCode75.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
@@ -127,10 +128,10 @@
 <h2 align="center">📞 Connect with me 📞</h2>
 <br/>
 <p align="center">
-<a href="https://codepen.io/hadil-ben-abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=codepen" height=45 withd=45 /></a>
 <a href="https://dev.to/hadil" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=devto" height=45 withd=45 /></a>
 <a href="https://app.daily.dev/hadilbenabdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=dailydev" height=45 withd=45 /></a>
 <a href="https://leetcode.com/u/hadilbenabdallah/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=leetcode" height=45 withd=45 /></a>
+<a href="https://codepen.io/hadil-ben-abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=codepen" height=45 withd=45 /></a>
 <a href="https://linkedin.com/in/hadil-ben-abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" height=45 withd=45 /></a>
 <a href="https://twitter.com/hadilbnabdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=twitter" height=45 withd=45 /></a>
 <a href="https://github.com/Hadil-Ben-Abdallah" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=github" height=45 withd=45 /></a>
@@ -264,7 +265,7 @@
 <h2 align="center">🎮 Interests 🎮</h2>
 <br/>
 <p align="center">
-<img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" /> 
 <img src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
 <img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
