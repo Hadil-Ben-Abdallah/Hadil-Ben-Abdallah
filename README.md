@@ -113,6 +113,7 @@
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/node.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/go.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/newbie.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://dev.to/hadil"><img src="imgs/dev-badges/bash.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
 </p>
 
 > Some of my blogs I'm proud of
