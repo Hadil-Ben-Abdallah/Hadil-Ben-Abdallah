@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+World!+👋🏻;+I'm+Hadil!;" />
 </h1>
 
-<h3 align="center">A passionate Software Engineer & Technical Writer</h3>
+<h3 align="center">Software Engineer & Technical Writer</h3>
 <br/>
 
 <div align="center">
@@ -113,13 +113,14 @@
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/node.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/go.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/newbie.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://dev.to/hadil"><img src="imgs/dev-badges/bash.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
 </p>
 
 > Some of my blogs I'm proud of
 
 |  Banner  |   Details  |
 |:--------:|:-----------|
-| <img src="imgs/banners/article1.png" alt="Coding Without Pressure: How Slowing Down Helped Me Learn Faster" width="600" /> | ✧  Reached 130k+ views and 250+ reactions <br> ✧ Got me the "CodeNewbie" badge <br><br> [Coding Without Pressure: How Slowing Down Helped Me Learn Faster](https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-lko) |
+| <img src="imgs/banners/article1.png" alt="Coding Without Pressure: How Slowing Down Helped Me Learn Faster" width="600" /> | ✧  Reached 130k+ views and 300+ reactions <br> ✧ Got me the "CodeNewbie" badge <br><br> [Coding Without Pressure: How Slowing Down Helped Me Learn Faster](https://dev.to/hadil/coding-without-pressure-how-slowing-down-helped-me-learn-faster-lko) |
 | <img src="imgs/banners/article2.png" alt="The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)" width="600" /> | ✧ Reached 25k+ views <br> ✧ Got me the "Git" badge <br><br> [The 15 Git Commands Every Software Engineer Uses (And Why They Matter More Than You Think)](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51) |
 | <img src="imgs/banners/article3.png" alt="Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)" width="600" /> | ✧ Reached 20k+ views <br> ✧ Got me the "Node" badge <br><br> [Web Development Is More Than Frontend and Backend (Here’s What Actually Matters)](https://dev.to/hadil/web-development-is-more-than-frontend-and-backend-heres-what-actually-matters-23kc) |
 | <img src="imgs/banners/article4.png" alt="From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Problems, and a Surprise Package That Changed Everything" width="600" /> | ✧ Reached 8k+ views <br><br> [From Rank 6,000,000 to 26,000: 1.5 Years, 1040 LeetCode Problems, and a Surprise Package That Changed Everything](https://dev.to/hadil/from-rank-6000000-to-26000-15-years-1040-leetcode-problems-and-a-surprise-package-that-43e2) |
