@@ -82,7 +82,10 @@
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/365days.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/2025.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/500.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/50.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/100.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/200_2026.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/2026.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/QuestAlgo.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/QuestData.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://leetcode.com/u/hadilbenabdallah/"><img src="imgs/LeetCode/QuestArch.gif" alt="hadil-ben-abdallah" width="75" height="75"/></a>
