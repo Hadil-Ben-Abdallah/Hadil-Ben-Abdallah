@@ -104,6 +104,7 @@
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/write.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/1year.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/2years.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://dev.to/hadil"><img src="imgs/dev-badges/3years.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <br>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/frontend-challenge.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/uno.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
@@ -121,14 +122,17 @@
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/react.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/next.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/angular.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://dev.to/hadil"><img src="imgs/dev-badges/vue.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/node.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/python.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://dev.to/hadil"><img src="imgs/dev-badges/java.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/ruby.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/kubernetes.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/go.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/newbie.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/bash.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
     <a href="https://dev.to/hadil"><img src="imgs/dev-badges/2gems.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
+    <a href="https://dev.to/hadil"><img src="imgs/dev-badges/4gems.png" alt="hadil-ben-abdallah" width="75" height="75"/></a>
 </p>
 
 > Some of my blogs I'm proud of
